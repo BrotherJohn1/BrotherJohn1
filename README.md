@@ -6,8 +6,9 @@
 
 -💲 Currently i am learning web design and working on a community project called DoomSpace
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrotherJohn1&show_icons=true&theme=dark" height="200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrotherJohn1&layout=compact&theme=dark" height="200">
-</p>
+⚡ **Github Stats**
 
-
+  <img align="left" alt="Taucher2003's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Taucher2003&count_private=true&show_icons=true&hide_border=true" />
+  <br>
+  <br>
+  <br>
