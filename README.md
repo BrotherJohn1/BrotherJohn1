@@ -13,11 +13,6 @@
 <br>
 <br>
 <br>
-
 ⚡ **Github Stats**
 
   <img align="left" alt="Brother John's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BrotherJohn1&count_private=true&show_icons=true&theme=dark&hide_border=true" />
-
-
-
-<script async src="https://cdn.reqbin.com/embed/js/c30csre5?kgl"></script>
